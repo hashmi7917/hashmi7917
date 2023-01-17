@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hashmi - Frontend Web / SwiftUI Developer
+- 👋 Hi, I’m @hashmi - Frontend Engineer Web / SwiftUI
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning JS / React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Website Projects
 - 📫 How to reach me Twitter - @hash_m_ee
 
