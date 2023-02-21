@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hashmi - Frontend Software Engineer
+- 👋 Hi, I’m hshmi - Frontend Dev
 - 👀 I’m interested in Coding, Photography
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Website Projects
+- 🌱 I’m looking to collaborate on Website Projects
 - 📫 How to reach me Twitter - @hash_m_ee
 
 <!---
