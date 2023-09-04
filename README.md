@@ -1,6 +1,6 @@
-- 👋 Hi, I’m hshmi - Frontend Dev
-- 👀 I’m interested in Coding, Photography
-- 🌱 I’m looking to collaborate on Website Projects
+- 👋 Hi, I’m hshmi - Software Er
+- 👀 I’m interested in Coding,Development,Photography
+- 🌱 I’m looking to collaborate on Projects
 - 📫 How to reach me Twitter - @dev_hash_mi
 
 <!---
