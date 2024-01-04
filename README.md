@@ -1,5 +1,5 @@
 - 👋 Hi, I’m hshmi - Software Er
-- 👀 I’m interested in Coding, Development, Photography
+- 👀 I’m interested in Coding, Animations, Photography
 - 🌱 I’m looking to collaborate on Projects
 - 📫 How to reach me Twitter - @dev_hash_mi
 
